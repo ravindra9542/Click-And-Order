@@ -8,7 +8,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu display_value="Mocha">8ee72267dbd02300d236b6d1ba9619ea</menu>
-        <name>Mocha</name>
+        <name>Click-And-Order</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
